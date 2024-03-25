@@ -6,12 +6,13 @@ Step 2: Install the Requests module
 
 The Requests module will be used to make HTTP requests to OpenWeatherMap API, so you will need to install it before proceeding. We will use the Requests module to make HTTP requests to OpenWeatherMap API. You can install the Requests module by running the following command in your terminal:
 
-pip install requests
+>>>pip install requests
 
 Step 3: Import the Requests module and API key
 
 Now that we have installed the Requests module and generated our API key, we can start coding. Open a new Python file in your favorite code editor and import the Requests module:
-import requests
+
+>>>import requests
 
 Next, create a variable to store your API key:
 
