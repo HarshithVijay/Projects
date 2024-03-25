@@ -1,6 +1,7 @@
 Step 1: Sign up for OpenWeatherMap API
 
 To get started, you will need to sign up for OpenWeatherMap API. This will allow you to access weather data that you can use in your Python script. Simply head over to https://home.openweathermap.org/users/sign_up and create a free account. Once you have created your account, navigate to your dashboard and generate an API key. You will need this key in order to access the weather data.
+
 Step 2: Install the Requests module
 
 The Requests module will be used to make HTTP requests to OpenWeatherMap API, so you will need to install it before proceeding. We will use the Requests module to make HTTP requests to OpenWeatherMap API. You can install the Requests module by running the following command in your terminal:
