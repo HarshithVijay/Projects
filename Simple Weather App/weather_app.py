@@ -10,7 +10,7 @@ pip install requests
 
 import requests, json
 
-api_key = 'bf8229aab7d58c09d6622d4e3074651f'
+api_key = 'YOUR API KEY'
 
 city = input('Enter city name: ')
 
